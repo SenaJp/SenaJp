@@ -1,4 +1,9 @@
-### Opa, Bão? Meu nome é João Pedro 👋
+# Opa, Bão? Meu nome é João Sena 👋
+
+<br> 👨🏽‍💻 - Code </br>
+<br> ☕ - Coffee </br>
+<br> 🎮 - Videogame </br>
+<br> 🎶 - Music </br>
 
 ##
 
