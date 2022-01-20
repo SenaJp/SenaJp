@@ -1,9 +1,11 @@
-# Opa, Bão? Meu nome é João Sena 👋
+### Hi there my name is é João Pedro G. 👋
 
-<br> 👨🏽‍💻 - Code </br>
-<br> ☕ - Coffee </br>
-<br> 🎮 - Videogame </br>
-<br> 🎶 - Music </br>
+I'm a fullstack developer. Learning is my hobby, I love programming and sharing my experiences. Always looking for the best practices and techniques to master my work. 
+
+👨🏽‍💻 - Code <br>
+☕ - Coffee <br>
+🎮 - Videogame <br>
+🎶 - Music <br>
 
 <div align="center">
   <a href="https://github.com/jao99">
@@ -11,7 +13,7 @@
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jao99&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<h2> Skills 🤓 </h2> 
+## Skills 🤓 
 
 <p align="center">
   
@@ -24,6 +26,8 @@
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"/>
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+
  
   
 </p>
@@ -32,7 +36,7 @@
   
 <div align="center">
   
-<a href="https://instagram.com/jpedro__99" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/jpedro.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/Hh7R8AE6" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <a href = "mailto:joaocitimo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-gomes-de-sena-552132210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
