@@ -1,6 +1,7 @@
 ### Hi there my name is é João Pedro G. 👋
 
 I'm a fullstack developer. Learning is my hobby, I love programming and sharing my experiences. Always looking for the best practices and techniques to master my work. 
+
 👨🏽‍💻 - Code <br>
 ☕ - Coffee <br>
 🎮 - Videogame <br>
