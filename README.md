@@ -17,7 +17,6 @@ I'm a fullstack developer. Learning is my hobby, I love programming and sharing 
 
 <p align="center">
   
-  
   <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -48,13 +47,10 @@ I'm a fullstack developer. Learning is my hobby, I love programming and sharing 
 <p align="center"> 
   
   <div align="center">
-  <a href ="https://app.daily.dev/JP99"><img src="https://api.daily.dev/devcards/6fcd0f373d84448aa869c5c13c2606bc.png?r=nyr" width="300" alt="João Pedro Gomes de Sena's Dev Card"/></a>
+  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/jao99/jao99/blob/main/devcard.svg" width="300" alt="João Pedro G."/></a>
   </div>
   
  ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Jao99/count.svg" />
-
  </p>
-  
-      
