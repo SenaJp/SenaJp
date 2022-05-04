@@ -1,7 +1,6 @@
 ### Hi there my name is é João Pedro G. 👋
 
 I'm a fullstack developer. Learning is my hobby, I love programming and sharing my experiences. Always looking for the best practices and techniques to master my work. 
-
 👨🏽‍💻 - Code <br>
 ☕ - Coffee <br>
 🎮 - Videogame <br>
@@ -12,7 +11,7 @@ I'm a fullstack developer. Learning is my hobby, I love programming and sharing 
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=jao99&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jao99&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
+  
 ## Skills 🤓 
 
 <p align="center">
@@ -46,8 +45,15 @@ I'm a fullstack developer. Learning is my hobby, I love programming and sharing 
 </div>
   
 <p align="center"> 
-
+  
+  <div align="center">
+  <a href ="https://app.daily.dev/JP99"><img src="https://api.daily.dev/devcards/6fcd0f373d84448aa869c5c13c2606bc.png?r=nyr" width="300" alt="João Pedro Gomes de Sena's Dev Card"/></a>
+  </div>
+  
  ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Jao99/count.svg" />
+
  </p>
+  
+      
