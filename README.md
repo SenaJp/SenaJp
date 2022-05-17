@@ -44,11 +44,11 @@ I'm a fullstack developer. Learning is my hobby, I love programming and sharing 
   
 </div>
   
-<p align="center"> 
+<!-- <p align="center"> 
   
   <div align="center">
   <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/JP-dev99/JP-dev99/blob/main/devcard.svg" width="300" alt="João Pedro G."/></a>
-  </div>
+  </div> -->
   
  ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
