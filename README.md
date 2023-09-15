@@ -38,8 +38,6 @@ I'm a fullstack developer. Learning is my hobby, I love programming and sharing 
 <a href="https://discord.gg/Hh7R8AE6" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <a href = "mailto:joaocitimo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-sena-552132210/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
- ![Snake animation](https://github.com/SenaJp/SenaJp/blob/output/github-contribution-grid-snake.svg)
   
 </div>
   
