@@ -1,12 +1,19 @@
-### Hi there my name is é João Pedro G. 👋
+### Eai, bão?
 
-I'm a fullstack developer. Learning is my hobby, I love programming and sharing my experiences. Always looking for the best practices and techniques to master my work. 
+Me chamo João Pedro, programdor apaixonado pelo que faz, sempre em busca de aprendizado e de novos desafios. O meu foco principal é no back-end, mas possuo conhecimento e experiência com front-end também. Sempre estou em busca da maestria e das melhores práticas para desenvolver as melhores soluções focando na disponibilidade e escalabilidade do sistema.
 
-👨🏽‍💻 - Code <br>
-☕ - Coffee <br>
-🎮 - Videogame <br>
-🎶 - Music <br>
+### Os meus hobies são:
+👨🏽‍💻 - **Code** <br>
+🎮 - **Videogame** <br>
+🎶 - **Ouvir Música** <br>
 
+### Atualmente estou apendendo:
+
+<div align="center">
+  <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"/>
+</div>
+
+### Algumas estatísticas:
 <div align="center">
   <a href="https://github.com/SenaJp">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=senajp&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
@@ -16,17 +23,18 @@ I'm a fullstack developer. Learning is my hobby, I love programming and sharing 
 ## Skills 🤓 
 
 <p align="center">
-  
+
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
   <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
-  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
-  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"/>
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/>
   
 </p>
     
