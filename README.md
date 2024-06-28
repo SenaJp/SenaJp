@@ -1,26 +1,21 @@
-### Eai, bão?
+# Hey, what's up?
 
-Me chamo João Pedro, programdor apaixonado pelo que faz, sempre em busca de aprendizado e de novos desafios. O meu foco principal é no back-end, mas possuo conhecimento e experiência com front-end também. Sempre estou em busca da maestria e das melhores práticas para desenvolver as melhores soluções focando na disponibilidade e escalabilidade do sistema.
+<p>Talking is easy. Show me the code!</p>
 
-### Os meus hobies são:
+## **Hobies**:
 👨🏽‍💻 - **Code** <br>
 🎮 - **Videogame** <br>
-🎶 - **Ouvir Música** <br>
+🎶 - **Music** <br>
+🏃‍♂️ - **Run** <br>
 
-### Atualmente estou apendendo:
-
-<div align="center">
-  <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"/>
-</div>
-
-### Algumas estatísticas:
+## **Stats**:
 <div align="center">
   <a href="https://github.com/SenaJp">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=senajp&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senajp&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
   
-## Skills 🤓 
+## **Skills**: 
 
 <p align="center">
 
@@ -38,7 +33,7 @@ Me chamo João Pedro, programdor apaixonado pelo que faz, sempre em busca de apr
   
 </p>
     
-<h2> Contact :iphone: </h2>
+## **Contact** :iphone:
   
 <div align="center">
   
@@ -55,7 +50,7 @@ Me chamo João Pedro, programdor apaixonado pelo que faz, sempre em busca de apr
   <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/SenaJp/SenaJp/blob/main/devcard.svg" width="300" alt="João Pedro G."/></a>
   </div> -->
   
- ## Total de Visitas no perfil :detective: <br>
+ ## **Visits** :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/SenaJp/count.svg" />
  </p>
